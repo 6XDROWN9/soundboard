@@ -24,7 +24,7 @@ client.on('message', message => {
 🇦 تفحيط داعش الله اكبرررررر 💣
 🇧 NANI?! 😣
 🇨 Dank Meme 🐸
-⏹ لإيقاف القرآن الكريم
+⏹ لإيقاف الساوند بورد
 🇩 Okay , Okayyy 🍃
 🇪 Hold Up Hey 😎
 🇫 Ass is Real Dank meme 🔥`)
