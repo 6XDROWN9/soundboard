@@ -19,7 +19,7 @@ client.on('message', message => {
 	.setColor('#000000')
 	.setFooter("ساوند بورد | ساوند بورد قمددد", 'https://d30y9cdsu7xlg0.cloudfront.net/png/105264-200.png')
       .setDescription(` 
-     🕋 لائحة الساوند بورد 🕋
+     🔥 لائحة الساوند بورد 🔥
 	 
 🇦 تفحيط داعش الله اكبرررررر 💣
 🇧 NANI?! 😣
